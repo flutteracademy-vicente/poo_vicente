@@ -13,6 +13,7 @@ class Moto extends Propiedades {
   bool revisarMotor() {
     return false;
   }
+
   // @override
   // bool revisarMotor() {
   //   // TODO: implement revisarMotor
